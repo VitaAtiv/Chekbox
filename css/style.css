@@ -52,8 +52,9 @@ img {
 /* Check */
 
 .check {
+    width: 100px;
     padding-left: 1.2em;
-    /* outline: 1px solid #000; */
+    /* outline: 1px solid #000;     */
 }
 
 
